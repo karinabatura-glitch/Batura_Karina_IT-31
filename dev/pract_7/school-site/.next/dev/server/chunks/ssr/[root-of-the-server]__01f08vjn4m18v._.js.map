@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Windows%2011%20Pro/OneDrive/Desktop/dev/practic_7/school-site/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 48, height: 48 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAIC,QAAQ;AAAG"}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Windows%2011%20Pro/OneDrive/Desktop/dev/practic_7/school-site/app/specialties/design/page.tsx"],"sourcesContent":["export default function DesignPage() {\r\n  return (\r\n    <div>\r\n      <h3>Спеціальність: Дизайн</h3>\r\n      <p>Напрямок охоплює вивчення UI/UX дизайну, створення зручних інтерфейсів, роботу у Figma, принципи композиції, типографіки та 3D-моделювання.</p>\r\n    </div>\r\n  );\r\n}"],"names":["DesignPage"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}

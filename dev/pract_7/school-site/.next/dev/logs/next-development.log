@@ -1,0 +1,25 @@
+{"timestamp":"00:00:02.147","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:02.147","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:02.148","source":"Server","level":"LOG","message":"- Experiments (use with caution):"}
+{"timestamp":"00:00:02.148","source":"Server","level":"LOG","message":"  ✓ agentFeedback"}
+{"timestamp":"00:00:02.148","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:02:27.211","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\Windows 11 Pro\\\\OneDrive\\\\Desktop\\\\dev\\\\practic_7\\\\school-site\\\\node_modules\\\\next\\\\dist\\\\esm\\\\client\\\\components\\\\instant-validation\")."}
+{"timestamp":"00:02:28.333","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\Windows 11 Pro\\\\OneDrive\\\\Desktop\\\\dev\\\\practic_7\\\\school-site\\\\node_modules\\\\enhanced-resolve\\\\lib\\\\util\")."}
+{"timestamp":"00:02:29.627","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:02:34.144","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:05:04.193","source":"Server","level":"LOG","message":"✓ Compiled in 35ms"}
+{"timestamp":"00:09:20.022","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:42.024","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:43.829","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:47.073","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:48.455","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:10:06.705","source":"Server","level":"LOG","message":"✓ Compiled in 40ms"}
+{"timestamp":"00:11:36.837","source":"Server","level":"LOG","message":"✓ Compiled in 30ms"}
+{"timestamp":"00:12:26.591","source":"Server","level":"LOG","message":"✓ Compiled in 171ms"}
+{"timestamp":"00:13:06.987","source":"Browser","level":"ERROR","message":"./app/specialties/error.tsx\nError: app/specialties/error.tsx must be a Client Component. Add the \"use client\" directive the top of the file to resolve this issue.\n    Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client\nEcmascript file had an error "}
+{"timestamp":"00:13:06.989","source":"Server","level":"ERROR","message":"[browser] \"./app/specialties/error.tsx\\nError: app/specialties/error.tsx must be a Client Component. Add the \\\"use client\\\" directive the top of the file to resolve this issue.\\n    Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client\\nEcmascript file had an error\" \"\""}
+{"timestamp":"00:13:08.287","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:13:36.313","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:13:37.177","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:13:48.827","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:13:53.766","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}

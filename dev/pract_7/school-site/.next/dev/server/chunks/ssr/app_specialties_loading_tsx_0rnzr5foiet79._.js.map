@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Windows%2011%20Pro/OneDrive/Desktop/dev/practic_7/school-site/app/specialties/loading.tsx"],"sourcesContent":["export default function Loading() {\r\n  return (\r\n    <div style={{ textAlign: 'center', padding: '30px', color: '#e67e22', fontWeight: 'bold' }}>\r\n      <p>Завантаження інформації про спеціальності...</p>\r\n    </div>\r\n  );\r\n}"],"names":["Loading","style","textAlign","padding","color","fontWeight"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;QAAIC,OAAO;YAAEC,WAAW;YAAUC,SAAS;YAAQC,OAAO;YAAWC,YAAY;QAAO;kBACvF,cAAA,8OAAC;sBAAE;;;;;;;;;;;AAGT"}}]
+}

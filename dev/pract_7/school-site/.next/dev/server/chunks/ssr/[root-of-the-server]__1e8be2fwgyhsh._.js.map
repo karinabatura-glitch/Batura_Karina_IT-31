@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Windows%2011%20Pro/OneDrive/Desktop/dev/practic_7/school-site/app/contacts/page.tsx"],"sourcesContent":["export default function ContactsPage() {\r\n  return (\r\n    <div>\r\n      <h2>Контактна інформація</h2>\r\n      <p><strong>Адреса:</strong> м. Луцьк, вул. Волі, 51</p>\r\n      <p><strong>Телефон:</strong> +38 (0332) 12-34-56</p>\r\n      <p><strong>Email:</strong> info@college-tech.ua</p>\r\n      <p><strong>Графік роботи:</strong> Пн-Пт: 8:30 – 18:00</p>\r\n    </div>\r\n  );\r\n}"],"names":["ContactsPage"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;;kCAAE,8OAAC;kCAAO;;;;;;oBAAgB;;;;;;;0BAC3B,8OAAC;;kCAAE,8OAAC;kCAAO;;;;;;oBAAiB;;;;;;;0BAC5B,8OAAC;;kCAAE,8OAAC;kCAAO;;;;;;oBAAe;;;;;;;0BAC1B,8OAAC;;kCAAE,8OAAC;kCAAO;;;;;;oBAAuB;;;;;;;;;;;;;AAGxC"}},
+    {"offset": {"line": 114, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Windows%2011%20Pro/OneDrive/Desktop/dev/practic_7/school-site/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 48, height: 48 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAIC,QAAQ;AAAG"}}]
+}
